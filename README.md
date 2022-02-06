@@ -1,6 +1,7 @@
 # Basic writing and formating syntax:
     Create Sophisticated formating for your prose and code on GitHub with simple syntax.
-    
+   ## [Resource](https://docs.github.com/en/enterprise-server@3.0/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+   
    ## Createin Heading:
       
       # The largest heading
